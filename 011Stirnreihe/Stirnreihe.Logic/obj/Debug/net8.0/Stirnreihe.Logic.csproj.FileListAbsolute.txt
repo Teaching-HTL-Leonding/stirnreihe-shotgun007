@@ -1,0 +1,11 @@
+C:\SynologyDrive\htl\Programmieren\2.Klasse\csharp\011Stirnreihe\Stirnreihe.Logic\bin\Debug\net8.0\Stirnreihe.Logic.deps.json
+C:\SynologyDrive\htl\Programmieren\2.Klasse\csharp\011Stirnreihe\Stirnreihe.Logic\bin\Debug\net8.0\Stirnreihe.Logic.dll
+C:\SynologyDrive\htl\Programmieren\2.Klasse\csharp\011Stirnreihe\Stirnreihe.Logic\bin\Debug\net8.0\Stirnreihe.Logic.pdb
+C:\SynologyDrive\htl\Programmieren\2.Klasse\csharp\011Stirnreihe\Stirnreihe.Logic\obj\Debug\net8.0\Stirnreihe.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\SynologyDrive\htl\Programmieren\2.Klasse\csharp\011Stirnreihe\Stirnreihe.Logic\obj\Debug\net8.0\Stirnreihe.Logic.AssemblyInfoInputs.cache
+C:\SynologyDrive\htl\Programmieren\2.Klasse\csharp\011Stirnreihe\Stirnreihe.Logic\obj\Debug\net8.0\Stirnreihe.Logic.AssemblyInfo.cs
+C:\SynologyDrive\htl\Programmieren\2.Klasse\csharp\011Stirnreihe\Stirnreihe.Logic\obj\Debug\net8.0\Stirnreihe.Logic.csproj.CoreCompileInputs.cache
+C:\SynologyDrive\htl\Programmieren\2.Klasse\csharp\011Stirnreihe\Stirnreihe.Logic\obj\Debug\net8.0\Stirnreihe.Logic.dll
+C:\SynologyDrive\htl\Programmieren\2.Klasse\csharp\011Stirnreihe\Stirnreihe.Logic\obj\Debug\net8.0\refint\Stirnreihe.Logic.dll
+C:\SynologyDrive\htl\Programmieren\2.Klasse\csharp\011Stirnreihe\Stirnreihe.Logic\obj\Debug\net8.0\Stirnreihe.Logic.pdb
+C:\SynologyDrive\htl\Programmieren\2.Klasse\csharp\011Stirnreihe\Stirnreihe.Logic\obj\Debug\net8.0\ref\Stirnreihe.Logic.dll
